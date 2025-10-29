@@ -234,12 +234,12 @@ header .mobile {
   justify-content: space-between;
   padding: 4rem 5%;
   background-color: #f3f3f3;
+  gap: 2.375rem;
 }
 
 .feature {
   flex: 1;
   padding: 2rem;
-  margin: 0px 1.25rem;
   background-color: white;
   width: 50%;
   height: 39.6875rem;
