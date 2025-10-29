@@ -250,7 +250,7 @@ header .mobile {
 }
 
 .image-container img {
-  object-fit: contain;
+  object-fit: scale-down;
 }
 
 .feature h2 {
