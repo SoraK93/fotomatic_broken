@@ -167,7 +167,7 @@ header .mobile {
   line-height: 1.4;
 }
 
-#sign-up-cta .email {
+#sign-up-cta .email span {
   font-size: 1.25rem;
   line-height: 1.4;
   margin-bottom: 1.625rem;
@@ -176,6 +176,7 @@ header .mobile {
 #sign-up-cta .button {
   width: 25.5rem;
   height: 4rem;
+  margin-bottom: 1.625rem;
   /* padding: 1.25rem 7.25rem; */
 }
 
