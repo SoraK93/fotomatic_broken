@@ -240,7 +240,7 @@ header .mobile {
   padding: 2rem;
   margin: 0px 1.25rem;
   background-color: white;
-  width: 100%;
+  width: 50%;
 }
 
 .feature .image-container {
@@ -250,7 +250,7 @@ header .mobile {
 }
 
 .image-container img {
-  object-fit: scale-down;
+  object-fit: fill;
 }
 
 .feature h2 {
