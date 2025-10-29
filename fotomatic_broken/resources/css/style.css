@@ -3,6 +3,7 @@
 html {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
+  box-sizing: border-box;
 }
 
 .main-content {
@@ -42,7 +43,7 @@ header {
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
   color: #4a4a4a;
-  
+
 }
 
 header .content {
