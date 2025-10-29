@@ -176,7 +176,7 @@ header .mobile {
   border-radius: 4px;
   background-color: #4a4a4a;
   color: white;
-  margin: auto 0;
+  margin: auto;
 }
 
 @media only screen and (max-width: 760px) {
