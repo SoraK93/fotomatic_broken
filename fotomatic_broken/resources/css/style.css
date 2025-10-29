@@ -54,6 +54,7 @@ header .content {
 
 header .logo {
   flex: 1;
+  
 }
 
 header nav ul {
@@ -250,7 +251,8 @@ header .mobile {
 }
 
 .image-container img {
-  object-fit: fill;
+  width: 100%;
+  height: auto;
 }
 
 .feature h2 {
