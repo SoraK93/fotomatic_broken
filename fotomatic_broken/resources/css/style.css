@@ -256,8 +256,10 @@ header .mobile {
 }
 
 .feature h2 {
+  margin-top: 2.5rem;
   padding-bottom: .5rem;
   font-size: 2.25rem;
+  
   font-weight: bold;
   color: #4a4a4a;
 }
