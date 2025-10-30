@@ -240,7 +240,7 @@ header .mobile {
   padding: 2rem;
   background-color: white;
   width: 50%;
-  height: 39.6875rem;
+  height: auto;
 }
 
 .feature .image-container {
@@ -382,6 +382,8 @@ header .mobile {
 @media only screen and (max-width: 760px) {
   #quotes-section .content {
     display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 1.875rem .625rem;
   }
 
@@ -389,12 +391,11 @@ header .mobile {
     display: block;
     font-size: 1.5rem;
     line-height: 1.4;
+    text-align: left;
   }
 
   #quotes-section .quote-citation {
     display: block;
-    padding-top: 1rem;
-    margin: auto;
   }
 }
 
