@@ -407,6 +407,9 @@ footer {
 footer .content {
   color: white;
   display: flex;
+}
+
+.copyright, .location {
   font-size: .75rem;
 }
 
